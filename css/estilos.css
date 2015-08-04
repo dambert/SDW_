@@ -1,12 +1,23 @@
-body{
+html,body{
 
 	font-family: "Segoe UI" !important;
-	font-size: 13px !important;
-
+	font-size: 15px !important;
+	height: 100% !important;
 }
-header{
-	background-color: rgba(15,157,88,0.94);
+nav{
+	background-color: rgba(15,157,88,0.94) !important;
 }
 .nav li a{
+	color:white !important;
+}
+footer{
+	background-color: #111;
 	color:white;
+	padding:10px;
+}
+.wrapper{
+	min-height:93%;
+}
+footer{
+	height: 7%;
 }
