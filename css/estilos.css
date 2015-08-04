@@ -1,0 +1,12 @@
+body{
+
+	font-family: "Segoe UI" !important;
+	font-size: 13px !important;
+
+}
+header{
+	background-color: rgba(15,157,88,0.94);
+}
+.nav li a{
+	color:white;
+}
